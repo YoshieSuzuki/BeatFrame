@@ -4,7 +4,7 @@
   "description": "An extension that switches between multiple images in sync with the rhythm of your typing. As you type, the displayed image changes, creating a dynamic visual experience that matches your keyboard input.",
   "version": "0.0.1",
   "engines": {
-    "vscode": "^1.91.0"
+    "vscode": "^1.80.0"
   },
   "categories": [
     "Other"
